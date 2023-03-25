@@ -1,0 +1,569 @@
+SweedPos [ ex WALLI IT, INC ] [ U.S.-Based Start-Up ]
+Front-End Tech Lead | Team Lead | Lead Engineer
+
+⬤ [ 7 YEARS 4 MONTHS ] [ 40-60 HOURS PER WEEK ] [ JULY 2017 ➜ OCTOBER 2024 ] [ FULL-TIME | LONG-TERM CONTRACT | HYBRID ]
+⬤ [ COMPANY SPECIFICS, PROFILE AND TECHNOLOGY STACK ]:
+― Turnkey product development in the field of retail distribution of pharmaceutical products.
+― Start-up [ 2017/2018 ] ➜ Established and successful company [ 2023/PT ].
+― Frontend: React & TypeScript; Backend: .NET & Microsoft SQL Server [ Java was partly used ].
+
+⬤ [ PROJECT #24 ] [ JULY 2017 ➜ OCTOBER 2024 ]
+➤ [ [ Front-End Framework ] Corporate Front-End Framework ]:
+― Successfully launched for commercial use [ 2018 ➜ PT ].
+➤ [ Front-End Tech Lead | Team Lead Role [ in a team of 2 to 6 front-end developers at different times ] ]:
+― Approximately 80% for coding and 20% for all other activities.
+― Building a corporate front-end platform from scratch.
+― Architecture design, developing core modules.
+― Creating a unified Webpack-based build system for all company web applications.
+― Collaborating with the product teams to develop optimal technical solutions.
+― Unit testing, code review.
+― Ensuring and monitoring code quality.
+― Documenting the architecture.
+➤ [ Key achievements and personal contributions ]:
+― Creator and sole developer at the time of the launch into production.
+― The foundational platform for all 5 of the company's web applications as of mid-July 2024.
+― First in my career and a successful experience using the React ecosystem as a corporate front-end platform.
+― Multi-layer architecture is built on SOLID principles.
+― Numerous complex UI components.
+― Dozens of features [ asynchronous connection-optimized channels manager for real-time data, etc. ].
+― The core of the framework is cross-platform. React and Vue components operate within the same ecosystem.
+➤ [ Key Points ]:
+― A huge amount of work.
+― Countless unit tests.
+➤ [ Stack and Work Environment ]:
+― Paradigms: Object-Oriented [ OOP ], Functional [ FP ], Event-Driven [ ED ].
+― Flux, Container/Presentational.
+― Design-first, Iterative SDLC.
+― Monolithic [ +lazy loaded bundles and modules ].
+― TypeScript 5, React 18 [ Class Components ].
+― React Router, Redux, InversifyJS, Ramda.
+― SignalR, @dagrejs/graphlib, Moment.js.
+― OpenTelemetry, Chart.js, Google Maps.
+― MSAL.js, CryptoJS.
+― Promise, Effects, Decorators.
+― HTML 4/5, CSS 2/3.
+― Flexbox, SASS/SCSS.
+― Cross-browser [ Mobile, Desktop ], BrowserStack.
+― Webpack 5, Node.js.
+― Karma, Jasmine.
+― ESLint/ESLint plugins, Git.
+― GitLab, Jira, Confluence.
+― Figma, Slack, Hubstaff.
+
+⬤ [ PROJECT #23 ] [ FEBRUARY 2023 ➜ OCTOBER 2024 ]
+➤ [ [ E-commerce: Kiosk ] Customizable web-based digital kiosk application, the secondary entry point for all in-store customers ]:
+― Successfully launched for commercial use [ March 2023 ➜ PT ].
+➤ [ Front-End Tech Lead | Team Lead Role [ in a team of up to 3 front-end developers ] ]:
+― Approximately 70% for coding and 30% for all other activities.
+― Creating, initializing, and launching into production.
+― Architecture design, developing business modules of increased complexity.
+― Participating in the design of client-server architecture.
+― Developing the communication protocols.
+― Integrating with the API.
+― Integrating with the web modules of the ecosystem.
+― Ensuring deadlines are met.
+― Working closely with the team [ QA, Devs, Designers ] and the business [ PO, CEO ].
+― Unit testing, code review.
+➤ [ Achievements and personal contributions ]:
+― Creator and sole developer at the time of the launch into production.
+― Successfully launched in under a month, based on a second build profile of the e-commerce module [ Project #21 ].
+― Successfully reused and enhanced the core front-end library [ Project #24 ] in a related business environment.
+― Successfully developed and launched the SSO feature within 24 hours due to demanding customers.
+― Numerous themes for various stores are based on the extensible SASS/SCSS core theme.
+➤ [ Stack and Work Environment ]:
+― Dependencies of Projects #21, #24.
+― Paradigms: Object-Oriented [ OOP ], Functional [ FP ], Event-Driven [ ED ].
+― Flux, Container/Presentational.
+― Design-first, Iterative SDLC.
+― Monolithic [ +lazy loaded bundles and modules ].
+― UI Themes.
+― Responsive Design [ TV/Kiosk, Tablet ].
+― Rich SPA.
+― Cross-browser, BrowserStack.
+― SSO, JSON-RPC, CORS.
+― Git/Git Submodules, WebStorm.
+
+⬤ [ PROJECT #22 ] [ MARCH 2018 ➜ JUNE 2021 ]
+➤ [ [ Application Server ] Cash Register Gate Service v1.0, the primary in-store SOA server for all in-store web applications ]:
+― Successfully launched for commercial use [ May 2018 ➜ June 2021; v2.0 migrated to the .NET platform ].
+➤ [ Full-Stack Tech Lead | Team Lead Role [ a team of 1 full-stack expert ] ]:
+― Approximately 80% for coding and 20% for all other activities.
+― Frontend and backend architecture design.
+― Client-server architecture design.
+― Developing static [ Java, TypeScript ] and dynamic [ JavaScript tasks ] modules.
+― Integrating into the existing ecosystem.
+― Migrating the frontend from v1.0 [ based on Java and Socket.IO ] to v2.0 [ based on .NET and SignalR ].
+― Manual testing.
+➤ [ Key Achievements ]:
+― Developed from scratch in the paradigm: designed ➜ implemented ➜ launched ➜ no service updates are required ➜ zero crashes or failures.
+― Fault-tolerant service: tasks are automatically recovered after potential failures, and the service remains unaffected.
+― Customizable, dynamically extensible, and updatable backend JavaScript logic supports all frontend components.
+― Multi-layer architecture ensured a smooth and a seamless migration from Socket.IO to SignalR.
+➤ [ Stack and Work Environment ]:
+― Paradigms: Object-Oriented [ OOP ], Multithreading [ MP ], Event-Driven [ ED ].
+― Code-first, Waterfall SDLC.
+― SOA, Event Bus.
+― JavaScript, TypeScript.
+― InversifyJS, Socket.IO.
+― Java SE 8, Nashorn [ JavaScript engine ].
+― Google Guava, Google Guice, Google Gson.
+― ZeroMQ, NettySocketIO.
+― Imgscalr, ZXing, SLF4J.
+― H2 Database, Apache MINA, Jetty Server.
+― OpenSSL, Certificates.
+― Java Keytool, Java KeyStore.
+― WebSocket, JSON-RPC.
+― Maven, Git.
+― Hubstaff.
+
+⬤ [ PROJECT #21 ] [ MARCH 2020 ➜ OCTOBER 2024 ]
+➤ [ [ E-commerce: Store ] Customizable web-based online store v1.0, the primary entry point for all online customers ]:
+― Successfully launched for commercial use [ February 2021 ➜ October 2024 ].
+➤ [ Front-End Tech Lead | Team Lead Role [ in a team of up to 3 front-end developers ] ]:
+― Approximately 60% for coding and 40% for all other activities.
+― Creating, initializing, and launching into production.
+― Architecture design, developing business modules of increased complexity.
+― Participating in the design of client-server architecture.
+― Developing the communication protocols.
+― Integrating with the API.
+― Integrating with the ecosystem's web applications.
+― Ensuring deadlines are met.
+― Working closely with the team [ QA, Devs, Designers ] and the business [ PO, CEO ].
+― Unit testing, code review.
+➤ [ Stack and Work Environment ]:
+― Dependencies of Project #24.
+― Paradigms: Object-Oriented [ OOP ], Functional [ FP ], Event-Driven [ ED ].
+― Flux, Container/Presentational.
+― Design-first, Iterative SDLC.
+― Monolithic [ +lazy loaded bundles and modules ].
+― accessiBe, ZXing.
+― UI Themes.
+― Responsive Design [ Mobile, Tablet, Desktop ].
+― Rich SPA, RTA [ Real-Time Application ].
+― WebSocket, JSON-RPC, CORS.
+― WKWebView, postMessage, iframe.
+― SEO, Prerender.io, Lighthouse.
+― CloudFlare, Reverse proxy.
+― Git/Git Submodules, WebStorm.
+
+⬤ [ PROJECT #20 ] [ JULY 2017 ➜ OCTOBER 2024 ]
+➤ [ [ POS System: Online Cash Register ] Point of Sale cashier.sweedpos.com, the primary web application for all cashiers in each store ]:
+― Successfully launched for commercial use [ 2018 ➜ PT ].
+➤ [ Front-End Tech Lead | Team Lead Role [ in a team of up to 4 front-end developers ] ]:
+― Approximately 70% for coding and 30% for all other activities.
+― Architecture design, developing business modules of increased complexity.
+― Developing platform modules and infrastructure modules.
+― Critical area of responsibility: high cost of errors and malfunctions.
+― Troubleshooting and resolving critical, complicated, non-trivial issues and incidents.
+― Participating in the design of client-server architecture.
+― Developing the communication protocols.
+― Integrating with the API.
+― Integrating with the external equipment [ USB scanners, etc. ].
+― Ensuring the consistency of data transmitted through synchronous and asynchronous channels.
+― Ensuring backwards compatibility and long-term ease of use.
+― Ensuring deadlines are met.
+― Providing estimates for development tasks.
+― Producing the most optimal solutions in conjunction with the team.
+― Working closely with the team [ QA, Devs, Designers, Tier-3 Support ] and the business [ PO, CEO ].
+― Unit testing, code review.
+― Ensuring and monitoring code quality.
+➤ [ Key achievements and personal contributions ]:
+― Creator and sole developer at the time of the launch.
+― Successfully launched the MVP as soon as possible based on the core front-end library.
+― Extremely low release rollback rate of all time.
+― More than ~100 significant, successful releases.
+― Dozens of complex business logic modules.
+― Multiple operating modes [ cloud, in-store, etc. ].
+➤ [ Key Points ]:
+― Tight deadlines.
+― Highly stressful work environment.
+― Very complicated and non-trivial business logic.
+➤ [ Stack and Work Environment ]:
+― Project #24 Dependencies.
+― Paradigms: Object-Oriented [ OOP ], Functional [ FP ], Event-Driven [ ED ].
+― Flux, Container/Presentational.
+― Design-first, Iterative SDLC.
+― Monolithic [ +lazy loaded bundles and modules ].
+― Responsive Design [ Tablet, Desktop ].
+― Rich SPA, Complicated RTA [ Real-Time Application ].
+― Cross-browser, BrowserStack.
+― SSO, WebSocket, JSON-RPC, CORS.
+― Git/Git Submodules, WebStorm.
+
+⬤ [ PROJECT #19 ]
+➤ [ Private online office store.sweedpos.com, the main working portal for all employees of all stores ]:
+― Successfully launched for commercial use [2018 - PT].
+➤ [ Stack and Work Environment ]:
+― TypeScript 5, React 18 [ Class Components ].
+― Redux, InversifyJS, Google Maps, Chart.js, Moment.js.
+― HTML 4/5, CSS 2/3, SASS.
+― WebSockets, Json-Rpc, CORS, CSP.
+― Karma, Jasmine, ESlint.
+― Webpack 5, Git/Git Submodules, Jira, Figma.
+
+⬤ [ PROJECT #18 ]
+➤ [ BossUI private online office for managing payment terminals [WALLI IT, INC] ]:
+― Successfully launched for commercial use.
+➤ [ Principal Front-End Developer Role [a team of 1 front-end expert] ]:
+― Architecture design, developing modules.
+➤ [ Stack and Work Environment ]:
+― TypeScript, React [ Class Components ]
+― Redux, InversifyJS, Moment.js.
+― Flexbox, SCSS.
+― Rich SPA, Flux, JSON-RPC.
+― Webpack, Git.
+
+⬤ [ PROJECT #17 ]
+TODO
+
+⬤ [ PROJECT #16 ]
+TODO
+
+GetTransfer LTD
+Lead Front-End Engineer
+
+⬤ [ 1 YEAR 6 MONTHS ] [ OCTOBER 2018 ➜ MARCH 2020 ] [ PART-TIME | OUTSOURCE | REMOTE ]
+⬤ [ COMPANY SPECIFICS AND PROFILE ]:
+― Turnkey product development in the field of online marketplaces connecting passengers and drivers for private transfers worldwide.
+― Established and successful company.
+
+⬤ [ PROJECT #15 ] [ OCTOBER 2018 ➜ MAY 2019 ]
+➤ [ Private online office to manage vehicles, passengers and drivers for private transfers worldwide ]:
+― Successfully launched for commercial use [ 2019 ].
+➤ [ Principal Front-End Developer Role [ a team of 1 front-end expert ] ]:
+― Architecture design, developing modules.
+― Participating in the design of client-server architecture.
+― Selecting a front-end platform.
+― Launching into the production environment.
+― Ensuring deadlines are met.
+― Working closely with the team [ Devs, Designers ] and the business [ PO ].
+➤ [ Achievements ]:
+― Creator and sole developer at the time of the launch.
+― First in my career and a successful experience using Vue as a front-end platform.
+― Successfully reused and enhanced the cross-platform core front-end library SweedPos. React and Vue components operate within the same ecosystem.
+― Successfully implemented a connector [ bridge ] between Redux and Vue.
+➤ [ Stack and Work Environment ]:
+― TypeScript, Vue 2.
+― vue2-dropzone, vue-property-decorator.
+― Redux, InversifyJS.
+― Responsive Design [ Desktop ], Flexbox, SCSS.
+― REST, CORS.
+― Flux, Waterfall SDLC.
+― Cross-browser Rich SPA, BrowserStack.
+― Webpack, Git.
+― Figma, Hubstaff, Slack.
+
+Crif LLC
+Senior Software Developer
+
+⬤ [ 3 MONTHS ] [ MAY 2017 - JULY 2017 ] [ FULL-TIME | SHORT-TERM CONTRACT | ONSITE ]
+⬤ [ COMPANY SPECIFICS, PROFILE AND TECHNOLOGY STACK ]:
+― Turnkey product development in the fields of credit bureaus, business information, outsourcing, processing services, and credit solutions.
+― Established and successful company.
+― Frontend: React & TypeScript; Backend: Java.
+
+⬤ [ PROJECT #13 ] [ MAY 2017 ➜ JULY 2017 ]
+➤ [ Contact Internationalization project ]:
+― Successfully launched for MVP use [ 2017 ].
+➤ [ Senior Front-End Developer Role [ in a team of up to 3 front-end developers ] ]:
+― Developing modules of increased complexity.
+― Actively participating in discussions about architecture and system requirements.
+― Code review.
+➤ [ Stack and Work Environment ]:
+― TypeScript, Angular 4.
+― RxJS, NgRx Store, ng2-dragula, angular2-jwt.
+― ag-grid-enterprise, Ramda, jQuery.
+― Flexbox, SCSS.
+― Rich SPA, Flux, REST.
+― Webpack, Git.
+― Slack, Gitlab.
+
+Acronis LLC
+Senior Software Developer
+
+⬤ [ 1 YEAR 10 MONTHS ] [ MARCH 2015 ➜ DECEMBER 2016 ] [ FULL-TIME | LONG-TERM CONTRACT | ONSITE ]
+⬤ [ COMPANY SPECIFICS, PROFILE AND TECHNOLOGY STACK ]:
+― Turnkey product development in cybersecurity and data protection technologies.
+― Established and successful company.
+― Frontend: ExtJS & React & TypeScript; Backend: C++ & Python.
+
+⬤ [ PROJECT #12 ] [ AUGUST 2016 ➜ SEPTEMBER 2016 ]
+➤ [ Multi-functional web applications bootstrapper for a standalone data centre and geo-distributed data centres ]:
+― Successfully launched for commercial use.
+➤ [ Principal Front-End Developer Role [ a team of 1 front-end expert ] ]:
+― Architecture design, developing modules.
+― Critical area of responsibility: high cost of errors and malfunctions.
+― Integrating into the existing ecosystem.
+― Unit testing and integration testing.
+➤ [ Achievements ]:
+― Developed from scratch in the paradigm: designed ➜ implemented ➜ launched ➜ no updates required ➜ zero crashes or failures.
+― The module operates successfully in two modes simultaneously for the following products: «On-Premise Backup Software» [ standalone mode ] and «Cloud Backup as a Service» [ cloud mode ].
+➤ [ Key Points ]:
+― The module operates successfully within the ecosystem with a fully connected mesh topology.
+➤ [ Stack and Work Environment ]:
+― TypeScript 2.
+― Bluebird, InversifyJS.
+― Karma, Jasmine.
+― fetch, CORS.
+― Cross-platform application, Waterfall SDLC.
+― Webpack 2, Git, npm.
+
+⬤ [ PROJECT #11 ] [ NOVEMBER 2015 ➜ DECEMBER 2016 ]
+➤ [ Personal online office account.acronis.com for customers ]
+― Successfully launched for commercial use.
+➤ [ Principal Front-End Developer Role [ in a team of up to 5 front-end developers ] ]:
+― Researching and maintaining Angular as a corporate front-end platform.
+― Developing TypeScript business modules of increased complexity.
+― Developing platform modules and infrastructure modules.
+― Troubleshooting cross-browser and performance issues.
+― Code review.
+― Participating in the architecture committee.
+― Working closely with the team [ QA, Devs ] and the business [ PM ].
+― Conducting interviews for the Senior/Middle Front-End Developer position.
+➤ [ Achievements and personal contributions ]:
+― Selected the open-source seed project for Angular applications.
+― First in my career and a successful experience using Angular as a corporate front-end platform.
+― Successful migration from Angular2.0.0-beta.7 to Angular2.0 through numerous intermediate versions.
+― Found a solution to a challenging task to improve application performance. Created the angular2-cache library implementing a caching strategy based on NgZone.
+― Several of the modules used are released as open source: ngx-post-message, ngx-dynamic-template, angular2-cache, ngx-i18next, ts-smart-logger.
+➤ [ Stack and Work Environment ]:
+― TypeScript 2, Angular 2.
+― RxJS, Bluebird, i18next, Lodash.
+― Flux, REST.
+― Cross-browser Rich SPA, Iterative SDLC.
+― Webpack 2, SVN, npm.
+― Jira, Confluence.
+― PlantUML, Figma.
+
+➤ [ PROJECT #10 ]
+➣ [ User licence management module [a submodule of «On-Premise Backup Software»] ]
+― Successfully launched for commercial use.
+➣ [ Principal Front-End Developer Role [in a team of up to 3 front-end developers] ]:
+― Design, developing TypeScript modules, code review, unit testing.
+― Integrating into the main module via iframe.
+➣ [ Achievements and personal contributions ]:
+― First and successful experience using Angular 2 as a corporate front-end platform: research, implementation and troubleshooting.
+➣ [ Stack and Work environment ]:
+― TypeScript 2, Angular 2.
+― RxJS, Bluebird, i18next, Lodash.
+― Flux, REST, postMessage, iframe.
+― Karma, Jasmine.
+― Webpack 2, SVN, npm.
+― Figma.
+
+➤ [ PROJECT #9 ]
+➣ [ Private online office baas.acronis.com for user groups and settings management ]
+― Successfully put to commercial use.
+➣ [ Stack and Work environment ]:
+TODO
+
+➤ [ PROJECT #8 ]
+➣ [ Email Templates ]
+― Successfully launched for commercial use.
+― Principal Front-End Developer Role [a team of 1 front-end expert].
+➣ [ Stack and Work environment ]:
+― HTML, emailonacid.com.
+― Java, Jira.
+
+IMIGO.ME Limited [ Start-Up ]
+Principal Front-End Developer
+
+⬤ [ 3 MONTHS ] [ DECEMBER 2015 ➜ FEBRUARY 2016 ] [ PART-TIME | SHORT-TERM CONTRACT | REMOTE ]
+⬤ [ COMPANY SPECIFICS, PROFILE AND TECHNOLOGY STACK ]:
+― Turnkey product development in the field of social networking and dating.
+― Start-up [ 2015 ➜ 2016 ].
+― Frontend: AngularJS & JavaScript; Backend: Python.
+
+⬤ [ PROJECT #7 ] [ DECEMBER 2015 ➜ FEBRUARY 2016 ]
+➤ [ Relationship market ]:
+― Successfully launched for commercial use [ 2016 ].
+➤ [ Principal Front-End Developer Role [ in a team of up to 2 front-end developers ] ]:
+― Architecture design, developing business modules.
+― Developing platform modules and infrastructure modules.
+― Selecting a front-end platform.
+― Launching into the production environment.
+― Continuous integration and troubleshooting.
+➤ [ Achievements and personal contributions ]:
+― First in my career and a successful experience using AngularJS as a front-end platform.
+― Application developed in 3 months on a part-time basis.
+― Drafted the entire UI.
+― Implemented the micro library for building responsive UI markup.
+― Implemented a fully automated application build using JavaScript.
+➤ [ Key Points ]:
+― Tight deadlines.
+― The main goal is to create a marketplace where anyone can sell their services.
+➤ [ Stack and Work Environment ]:
+― JavaScript ES6, Babel, AngularJS.
+― AngularUI, angular-gettext, jQuery.
+― Responsive Design [ Desktop ], CSS 2, LESS.
+― REST, Long Polling.
+― Cross-browser Rich SPA, Waterfall SDLC.
+― Gulp, SystemJS, Bower, Git.
+
+E.Soft
+Lead Programmer
+
+⬤ [ 6 MONTHS ] [ SEPTEMBER 2014 ➜ FEBRUARY 2015 ] [ FULL-TIME: 40 HOURS PER WEEK | LONG-TERM CONTRACT | ONSITE ]
+⬤ [ COMPANY SPECIFICS, PROFILE AND TECHNOLOGY STACK ]:
+― Turnkey product development in the field of automated workflow for government organizations.
+― Established and successful company.
+― Frontend: ExtJS & JavaScript; Backend: Java & PostgreSQL.
+
+⬤ [ PROJECT #6 ] [ SEPTEMBER 2014 ➜ JANUARY 2015 ]
+➤ [ [ Command-line tool: Data Migration Assistant ] Data migration tool for importing IBM Lotus Notes files into PostgreSQL ]
+― Successfully launched for commercial use.
+➤ [ Back-End Lead Developer Role [ a team of 1 back-end expert ] ]:
+― Development of migration algorithms, SQL expressions and Java modules.
+➤ [ Key Achievements ]:
+― More than 15 million successfully imported XML and binary files; more than 10 million entities created in the database.
+― Transactional algorithm of operation: import process recovery after a possible failure or a deliberate interruption of the tool operation.
+➤ [ Key Points ]:
+― Challenge Task.
+― The tool dynamically creates structures for tables and dependent tables, as requested.
+― Tens of terabytes of imported data.
+― Import process time is more than 24 hours; no errors caused by memory overflow.
+➤ [ Stack and Work Environment ]:
+― Paradigms: Procedural [ PP ].
+― Code-first.
+― Java SE 7, SQL, XML.
+― Java NIO, Google Guava.
+― jOOQ, Joda-Time, SLF4J.
+― PostgreSQL, Maven, SVN.
+― TeamCity, YouTrack, IntelliJ Idea.
+
+⬤ [ PROJECT #5 ] [ DECEMBER 2014 ➜ FEBRUARY 2015 ]
+➤ [ [ Command-line tool: Data Migration Assistant ] Data migration tool based on existing WFMS Java modules for importing XML files into PostgreSQL ]:
+― Created and introduced the migration tool into Workflow Management System.
+➤ [ Back-End Lead Developer Role [ a team of 1 back-end expert ] ]:
+― Development of migration algorithms, SQL expressions and Java modules.
+➤ [ Key Achievements ]:
+― External data was successfully imported to the local database.
+― Finding unconventional solutions to challenging tasks.
+➤ [ Key Points ]:
+― Challenge Task.
+➤ [ Stack and Work Environment ]:
+― Paradigms: Procedural [ PP ].
+― Code-first.
+― Java SE, PL/pgSQL.
+― Spring IoC, JAXB.
+― PostgreSQL, Maven, SVN.
+― TeamCity, YouTrack, IntelliJ Idea.
+
+⬤ [ PROJECT #4 ] [ NOVEMBER 2014 ➜ JANUARY 2015 ]
+➤ [ [ Web Portal: Dynamic Admin Panel ] Web Client for the Workflow Management System ]:
+― Successfully launched for MVP use [ 2015 ].
+➤ [ Full-Stack Lead Developer Role [ a team of 1 full-stack expert ] ]:
+― Approximately 90% for coding and 10% for all other activities.
+― Creating a robust front-end platform from the ground up.
+― Architecture design, developing modules.
+― Integrating into the vast and complex legacy ecosystem built on the Java Spring Framework.
+― Manual testing.
+➤ [ Key Achievements ]:
+― Successfully developed from the ground up and integrated within three months.
+― A multi-layer architecture that separates the fully dynamic user interface from the core functionality.
+― Thanks to the project, a complex desktop application built on Java Swing now has a fully functional web version available as an alternative.
+➤ [ Key Points ]:
+― Challenge Task.
+― Tight deadlines.
+― A dynamic and extensible XML-based user interface that integrates dynamic JavaScript functionality.
+➤ [ Stack and Work Environment ]:
+― Paradigms: Object-Oriented [ OOP ].
+― Code-first, Waterfall SDLC.
+― MVC, Monolithic.
+― JavaScript ES5, ExtJS 5, Google Closure.
+― Dynamic JavaScript in the Sandbox.
+― Cross-browser Rich SPA.
+― SASS/SCSS.
+― JSON-RPC 2, JXON, XML.
+― Java EE, Servlets 3, JSP.
+― Google Guice, Google Gson, Guice-Servlet.
+― Java Spring Framework, Java Swing.
+― Tomcat, Maven, SVN.
+― TeamCity, YouTrack, IntelliJ Idea.
+
+QIWI Ltd
+
+⬤ [ 6 YEARS 1 MONTH ] [ JULY 2008 ➜ JULY 2014 ] [ FULL-TIME | LONG-TERM CONTRACT | ONSITE ]
+⬤ [ COMPANY SPECIFICS, PROFILE AND TECHNOLOGY STACK ]:
+― Turnkey product development in the field of electronic payment processing, self-service kiosks and e-wallets.
+― Established and successful company.
+― Front-End: JavaScript & ExtJS; Back-End: Java & Oracle.
+
+⬤ [ PROJECT #3 ] [ JANUARY 2011 ➜ JULY 2011 ]
+➤ [ For payment kiosks: «Provider Visibility» module, the payment system core ]:
+― Successfully launched for commercial use.
+➤ [ Principal Full-Stack Developer Role [ a team of 1 full-stack expert ] ]:
+― Architecture design, developing modules and SQL queries.
+― Critical area of responsibility: high cost of errors and malfunctions.
+― Designing database and algorithms.
+― Creating performance benchmarks.
+― Integrating into the existing ecosystem.
+― Unit testing.
+― Documenting the architecture.
+➤ [ Achievements ]:
+― The Java module v1.0 implements complex algorithms and operates under high loads for approximately 1.5 years without a single glitch.
+― The designed architecture does not require frontend and database rework for the performance-enhanced Java module v2.0.
+➤ [ Key Points ]:
+― Challenging task.
+― Algorithmic challenge.
+➤ [ Stack and Work Environment ]:
+― Java, SQL.
+― JavaScript, ExtJS 3.
+― Memcached, JUnit.
+― Oracle, Git.
+― TeamCity, Toad, IntelliJ Idea.
+
+⬤ [ PROJECT #2 ]
+➤ [ Jira plugins for in-house customers ]:
+TODO
+
+⬤ [ PROJECT #1 ] [ July 2008 ➜ July 2014 ]
+➤ [ Private online office agent.qiwi.com, the main working portal for all customers ]:
+― Successfully launched for commercial use.
+➤ [ Principal Full-Stack Application Developer Role [ in a team of up to 12 developers ] ]:
+― Developing modules, SQL queries and PL/SQL expressions.
+― Approximately 20% of system [core] tasks; approximately 80% of application [business] tasks.
+― Unit testing, code review.
+― Troubleshooting and fixing critical issues.
+― Working closely with customers, QA, PMs, release managers, database developers, and core module developers.
+― Preparing and forming releases.
+― Participating in Scrum meetings and retrospectives.
+➤ [ Final year: Team Leader, acting as a Project Manager [in a team of up to 3 developers] ]:
+― Ensuring deadlines are met.
+― Providing itemized estimates for development work.
+― Analyzing requirements, task specifications, and prototypes, and converting them into Jira tasks.
+― Bringing any major issues up to the relevant stakeholders, assigning duties to regular developers.
+― Conducting job interviews with candidates for JavaScript developer positions.
+➤ [ Achievements and personal contributions ]:
+― From a junior position to a lead in 3.5 years.
+― Most extensive and successful career experience as a Full Stack Developer [JavaScript, Java, SQL, PL/SQL].
+― More than ~300 successfully developed application and system tasks.
+― More than ~50 significant, successful releases.
+➤ [ Key Points ]:
+― Highly stressful work environment.
+― Bi-weekly releases in line with Agile sprint planning.
+➤ [ Stack and Work Environment ]:
+― JavaScript, ExtJS 2-4.
+― Java, SQL, PL/SQL.
+― Apache Struts, JSP, Servlets, JDBC.
+― Google Guice, Google Gson, Google Guava, Guice-servlet.
+― Memcached, Apache Camel, JasperReports.
+― OWASP AntiSamy, FreeMarker.
+― Oracle, Tomcat.
+― MVC, Rich SPA, JSON-RPC, Short Polling.
+― JUnit, TestNg.
+― Maven, Git, SVN.
+― Gerrit, Toad, IntelliJ Idea.
+― eToken, Certificates.
+― TeamCity, Jira, Lotus Notes.
+― Agile, Scrum.
+
+* 15.5 years ➤ ECMAScript [ 2009/ES5 ‒ 2023 ] ● HTML [ 4 ‒ 5 ]
+* 11 years ➤ Git/Git Submodules
+* 8.5 years ➤ TypeScript [ 1 ‒ 5 ] ● Webpack [ 2 ‒ 5 ]
+* 8 years ➤ ExtJS [ 2 ‒ 6 ]
+* 7.5 years ➤ React [ 15 ‒ 18 ] ● Redux ● InversifyJS
+* 7 years ➤ Java SE [ 5 ‒ 8 ]
+* 6.5 years ➤ Java EE
+* 2 years ➤ Angular [ 2 ‒ 5 ]
+* 8 months ➤ Vue [ 2 ]
